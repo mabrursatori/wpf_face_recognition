@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "PyDfUcjGDhNJZDyg+hVJaBOZLDj+ydn96erl3g9aBE+TsJkTe5H4ObsZOi8w++I8vVAeihO/EyPRUEOVkQ8W5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Net_Project\\Face_Rec\\Face_Rec\\Face_Rec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\emgu.cv\\4.8.1.5350\\emgu.cv.4.8.1.5350.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\emgu.cv.bitmap\\4.8.1.5350\\emgu.cv.bitmap.4.8.1.5350.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\emgu.cv.runtime.windows\\4.8.1.5350\\emgu.cv.runtime.windows.4.8.1.5350.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\emgu.cv.ui\\4.8.1.5350\\emgu.cv.ui.4.8.1.5350.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.arm64\\19.37.32825\\emgu.runtime.windows.msvc.rt.arm64.19.37.32825.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.37.32825\\emgu.runtime.windows.msvc.rt.x64.19.37.32825.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.37.32825\\emgu.runtime.windows.msvc.rt.x86.19.37.32825.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\emgu.tf\\2.15.0.1583\\emgu.tf.2.15.0.1583.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\fontawesome.wpf\\4.7.0.9\\fontawesome.wpf.4.7.0.9.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
